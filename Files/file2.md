@@ -1,2 +1,3 @@
 featureA
-first line 
+second line featureB
+first line
