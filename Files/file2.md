@@ -1,2 +1,3 @@
 featureA
-first line 
+first ***  line 
+
